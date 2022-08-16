@@ -1,0 +1,8 @@
+[package]
+name = "s50600822"
+version = "0.0.1"
+edition = "2021"
+authors = ["Hoa <s50600822@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "nothing"
+[dependencies]
